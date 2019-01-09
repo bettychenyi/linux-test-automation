@@ -1,0 +1,4 @@
+export OS_USERNAME="myname"
+export OS_PASSWORD="mypassword"
+export OS_TENANT_NAME="OPENSTACK-lab-12345-01"
+export OS_AUTH_URL="https://identity.cluster01.lab.contoso.com:5000/v2.0"
