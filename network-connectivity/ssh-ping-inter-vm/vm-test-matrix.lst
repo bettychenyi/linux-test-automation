@@ -1,0 +1,17 @@
+VM1 - VM3
+VM1 - VM4
+VM1 - VM5
+VM1 - VM6
+VM1 - VM7
+
+VM2 - VM3
+VM2 - VM4
+VM2 - VM5
+VM2 - VM6
+VM2 - VM7
+
+VM3 - VM4
+VM4 - VM5
+
+VM6 - VM7
+
