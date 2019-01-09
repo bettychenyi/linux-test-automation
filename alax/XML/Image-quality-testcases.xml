@@ -1,0 +1,12 @@
+<TestSuite ReportTo="bettychen@live.com">
+	<TestCase>
+		<TestName>Basic-Checking-for-Linux-System</TestName>
+		<ExecScript>01-Basic-Checking-for-Linux-System.sh</ExecScript>
+		<LogFile>Basic-Checking-for-Linux-System.log</LogFile>
+	</TestCase>
+	<TestCase>
+		<TestName>Application-Settings-Checking</TestName>
+		<ExecScript>02-Application-Checking.sh</ExecScript>
+		<LogFile>Application-Checking.log</LogFile>
+	</TestCase>
+</TestSuite>
